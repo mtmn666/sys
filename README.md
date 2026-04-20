@@ -39,6 +39,8 @@ ngrok http 5678
 https://platform.claude.com/dashboard
 
 
+
+
 SYSフォルダには以下のものを作成したい。
 ① プロジェクトの目的
 ドル円（USD/JPY）の金利差モデルを使った自動リサーチAIを作りたい。
