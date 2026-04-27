@@ -29,12 +29,13 @@
 # n8n起動
 docker-compose.xml作成
 ▼実行
-- docker compose up -d
+- Docker Desktop を起動
+  - docker compose up -d
 
-# 実行
-http://localhost:5678
 # 起動
 ngrok http 5678
+# 実行
+http://localhost:5678
 # プラットフォーム
 https://platform.claude.com/dashboard
 
